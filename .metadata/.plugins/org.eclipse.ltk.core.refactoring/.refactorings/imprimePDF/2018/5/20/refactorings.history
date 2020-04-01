@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;imprimePDF.questioner_Pruebas&apos; to &apos;questioner&apos;&#x0D;&#x0A;- Original project: &apos;imprimePDF&apos;&#x0D;&#x0A;- Original element: &apos;imprimePDF.questioner_Pruebas&apos;&#x0D;&#x0A;- Renamed element: &apos;imprimePDF.questioner&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;questioner_Pruebas&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;imprimePDF{questioner_Pruebas.java[questioner_Pruebas" matchStrategy="1" name="questioner" qualified="false" references="true" similarDeclarations="false" stamp="1526259022065" textual="false" version="1.0"/>
+</session>
